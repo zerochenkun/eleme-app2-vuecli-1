@@ -5074,6 +5074,11 @@ vue-loader@^8.3.0:
     source-map "^0.5.3"
     vue-template-validator "^1.0.0"
 
+vue-router@^0.7.13:
+  version "0.7.13"
+  resolved "https://registry.npm.taobao.org/vue-router/download/vue-router-0.7.13.tgz?cache=0&sync_timestamp=1607347338087&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-router%2Fdownload%2Fvue-router-0.7.13.tgz#e1f0f042ac2561504b27f46f6dcd17b832b1c8d1"
+  integrity sha1-4fDwQqwlYVBLJ/Rvbc0XuDKxyNE=
+
 vue-style-loader@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/vue-style-loader/download/vue-style-loader-1.0.0.tgz#abeb7bd0f46313083741244d3079d4f14449e049"
