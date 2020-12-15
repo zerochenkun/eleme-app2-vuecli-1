@@ -23,5 +23,14 @@ export default {
 </script>
 
 <style scoped>
-  
+.tab{
+  display:flex;
+  width:100%;
+  height: 40px;
+  line-height:40px;
+}
+.tab .tab-item{
+  flex:1;
+  text-align:center;
+}
 </style>
