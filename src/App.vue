@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <div class="header">
+<div>
+  <div>
       header
     </div>
     <div class="tab">
@@ -10,6 +10,8 @@
     </div>
     <v-header>
   </div>
+</div>
+    
 </template>
 
 <script>
